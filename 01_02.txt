@@ -1,0 +1,17 @@
+01. Crie um mapa mental para resolver um determinado problema, por exemplo, calcular a média aritmética de quatro notas
+sabendo que as notas são as seguintes: nota 1: 5, nota 2: 7, nota 3: 10, nota 4: 3.
+
+declarar variáveis    ->   adicionar valores às variáveis   ->   declarar média    ->    cálculo da média aritmética   ->
+float n1, n2, n3, n4;             n1 = 5;  n2 = 7;               float media;             media = (n1+n2+n3+n4)/4   
+                                  n3 = 10; n4 = 3;
+  
+-> imprimir valor da média
+    printf("%d", media)
+    
+02. É possível fazer uma abstração a partir deste mapa mental?
+Sim, declararando as variáveis com seus respectivos valores, simultaneamente à variável média:
+
+declarar variáveis   ->   cálculo da média aritmética   -> imprimir resultado da media
+  n1 = 5  n2 = 7            media = (n1+n2+n3+n4)/4            printf("%d", media)
+  n3 = 10 n4 = 3
+  media
