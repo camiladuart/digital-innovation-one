@@ -1,0 +1,49 @@
+03. Crie um algoritmo do seu dia.
+
+levantar
+escovar os dentes
+lavar o rosto
+tomar café
+arrumar a cama
+aspirar o chão
+organizar quarto
+estudar
+almoçar
+escovar os dentes
+descansar
+fazer exercício
+beber água
+me alongar
+tomar banho 
+lanchar 
+ler livro
+assistir série
+jantar
+escovar os dentes
+deitar
+dormir
+
+04. Acesse www.rachacuca.com.br/jogos/pinguins-numa-fria, resolva o problema e faça um pseudocódigo para futuros jogadores:
+
+inicio
+entra pinguin filho e pai azul
+atravessa
+sai pai azul
+atravessa
+entra filho verde
+atravessa
+sai filho azul
+atravessa
+entra pai verde
+atravessa
+sai pai verde
+atravessa
+entra filho vermelho
+atravessa
+sai filho verde
+atravessa
+entra pai vermelho
+atravessa
+sai pai vermelho
+sai filho vermelho
+fim
